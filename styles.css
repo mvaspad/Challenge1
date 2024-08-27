@@ -42,7 +42,7 @@ main{
     border-style: dotted;
     border-color: #001F3F;
     background-color: #FFFFFF;
-    background-image: url(/imagenes/Spy.png);
+    background-image: url(imagenes/Spy.png);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 60%;
